@@ -1,0 +1,6 @@
+nome = str(input('Nome completo: ')).strip()
+print(nome.upper())
+print(nome.lower())
+print(len(nome.replace(' ', '')))
+nomeDividido = nome.split()
+print(len(nomeDividido[0])) # alternativa: print(... .format(nome.find(' ')))

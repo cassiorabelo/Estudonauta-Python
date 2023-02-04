@@ -1,0 +1,6 @@
+nome;idade
+Al Ghen;23
+Otto;34
+Mai Zun;103
+Kwarta P'Soa;20
+Kim To;12
