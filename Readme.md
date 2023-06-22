@@ -1,1 +1,1 @@
-Exercícios do curso Python 3, da plataforma Estudonauta.
+Exercícios do curso Python 3, da plataforma [Estudonauta](https://www.estudonauta.com/).
